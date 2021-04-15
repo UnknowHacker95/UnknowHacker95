@@ -1,5 +1,5 @@
 ### Hi there 👋
-[:sparkles:] - I'm currently working on my school projects: robot for the RTC competition, neural network for solving geometry problems and something else.
+:sparkles: - I'm currently working on my school projects: robot for the RTC competition, neural network for solving geometry problems and something else.
 
 <!--- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
