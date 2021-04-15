@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**UnknowHacker95/UnknowHacker95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 [:sparkles:] - I'm currently working on my school projects: robot for the RTC competition, neural network for solving geometry problems and something else.
 
 <!--- 🌱 I’m currently learning ...
